@@ -16,3 +16,4 @@ public class ForeCasting{
         System.out.print(String.format("%.2f", fv));
     }
 }
+cd src
