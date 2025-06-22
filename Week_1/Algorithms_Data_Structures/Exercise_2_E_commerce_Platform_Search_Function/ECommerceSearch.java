@@ -45,7 +45,7 @@ public class ECommerceSearch {
                 new Product(1004, "lays", "Snacks"),
                 new Product(1005, "coke", "Beverages")
         };
-        String searchName = "sting";
+        String searchName = "coke";
         int linearIndex = linearSearch(products, searchName);
         System.out.println("Linear Search Result:");
         if (linearIndex != -1)
