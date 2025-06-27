@@ -23,9 +23,9 @@ public class Palindrome {
 
         String word = "madam";
         if (p.isPalindrome(word)) {
-            System.out.println(word + " is a palindrome ✅");
+            System.out.println(word + " is a palindrome");
         } else {
-            System.out.println(word + " is not a palindrome ❌");
+            System.out.println(word + " is not a palindrome");
         }
     }
 }
