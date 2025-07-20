@@ -12,3 +12,6 @@
 
 ## Output - Eureka Server with Microservices
 <img width="1920" height="1043" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/0011da57-9f4c-4700-a1a3-1c30180af8ce" />
+
+## Output - Eureka Server with Loan and Account Microservices
+<img width="1891" height="910" alt="output_6" src="https://github.com/user-attachments/assets/e32f4dfd-1805-4911-8769-e16c9c083994" />
