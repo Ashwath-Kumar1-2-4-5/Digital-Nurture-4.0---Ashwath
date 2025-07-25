@@ -1,0 +1,60 @@
+/* src/App.css */
+
+/* Basic styling for the main container */
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+/* Styling for the container div of the table */
+.mydiv {
+  margin: 0 auto; /* Center the div horizontally */
+  width: fit-content; /* Adjust width to content */
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  background-color: #ffffff;
+}
+
+/* Styling for the main heading "Items Ordered :" */
+h1 {
+  color: green;
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+/* Table styling */
+table {
+  width: 100%;
+  border-collapse: collapse; /* Collapse borders between cells */
+  margin-top: 20px;
+  border: 1px solid #c0c0c0; /* Overall table border */
+}
+
+/* Styling for table headers (Name, Price) */
+th {
+  background-color: #e0e0e0; /* Light grey background for header */
+  font-weight: bold;
+  padding: 10px;
+  text-align: left;
+  border: 1px solid #c0c0c0;
+}
+
+/* Styling for table data cells */
+td {
+  padding: 10px;
+  text-align: left;
+  border: 1px solid #c0c0c0; /* Cell borders */
+}
+
+/* Zebra striping for table rows (alternate row colors) */
+tr:nth-child(even) {
+  background-color: #f5f5f5; /* Lighter background for even rows */
+}
+
+/* Hover effect for rows (optional, for better UX) */
+tr:hover {
+  background-color: #e8e8e8;
+}

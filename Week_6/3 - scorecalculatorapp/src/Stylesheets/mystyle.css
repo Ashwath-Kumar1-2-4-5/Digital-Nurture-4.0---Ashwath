@@ -1,0 +1,28 @@
+.Name
+{
+  font-weight: 300;
+  color: blue;
+}
+.School
+{
+  color:crimson;
+}
+.Total
+{
+  color:darkmagenta
+}
+.formatstyle
+{
+  text-align: center;
+  font-size: larger;
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: lightcyan;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 10px;
+}
+.Score
+{
+  color:forestgreen
+}
