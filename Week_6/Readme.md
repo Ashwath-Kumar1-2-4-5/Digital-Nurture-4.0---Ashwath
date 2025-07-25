@@ -10,6 +10,9 @@
 ## Exercise 4 - BlogApp
 <img width="1919" height="1039" alt="Screenshot 2025-07-23 212656" src="https://github.com/user-attachments/assets/139ea038-eb5a-4588-ab44-b69c84efe592" />
 
+## Exercise 4 - Cohorttracker
+<img width="1916" height="1041" alt="Screenshot 2025-07-25 165113" src="https://github.com/user-attachments/assets/bfa3efe3-7a5f-4a57-90ea-1d972f63a885" />
+
 ## Exercise 6 - TrainersApp
 <img width="1916" height="1042" alt="Screenshot 2025-07-24 074625" src="https://github.com/user-attachments/assets/2f430725-b391-4124-bc28-dda35148bf1b" />
 
