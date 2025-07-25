@@ -1,24 +1,20 @@
-/* CohortDetails.module.css */
-
-/* Define the 'box' class for the individual cohort cards */
 .box {
     width: 180px;
     display: inline-block;
-    margin: 10px; /* Overall 10px margin around each box */
-    padding-top: 10px; /* Inner padding */
+    margin: 10px; 
+    padding-top: 10px; 
     padding-bottom: 10px;
     padding-left: 20px;
     padding-right: 20px;
-    border: 1px solid black; /* 1px black border */
-    border-radius: 10px; /* Rounded corners */
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
-    vertical-align: top; /* Ensures boxes align at the top when displayed inline-block */
+    border: 1px solid black; 
+    border-radius: 10px; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+    vertical-align: top; 
 }
 
-/* Define a CSS style for HTML <dt> (definition term) element using a tag selector */
 dt {
-    font-weight: 500; /* Medium-bold font weight for definition terms */
-    margin-bottom: 4px; /* Small space below each term */
-    color: #333; /* Dark gray color for readability */
+    font-weight: 500; 
+    margin-bottom: 4px; 
+    color: #333; 
 }
 
