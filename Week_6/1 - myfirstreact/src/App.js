@@ -1,7 +1,6 @@
 import React from 'react';
-import About from './About'; // This line imports your About component
+import About from './About'; 
 
-// You can add other imports like CSS if needed, e.g., import './App.css';
 
 function App() {
   return (
