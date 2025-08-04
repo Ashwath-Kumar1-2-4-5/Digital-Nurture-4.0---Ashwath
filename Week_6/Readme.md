@@ -21,3 +21,4 @@
 
 ## Exercise 8 - CounterApp
 <img width="1916" height="1039" alt="Screenshot 2025-07-24 143857" src="https://github.com/user-attachments/assets/d451eeb6-1611-4d9d-8c39-b7f9c6c068bb" />
+
